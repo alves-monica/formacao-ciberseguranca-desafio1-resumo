@@ -6,7 +6,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B0001E&height=3" width="100%" />
+<div align="center">
+        <img src="./assets/patrick-jane-simon-baker.gif" alt="Patrick Jane">
+</div>
 
 ## Sobre este exercício
 
